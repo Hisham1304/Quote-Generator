@@ -1,2 +1,2 @@
-# Quote-Generator
-An app that generates quotes
+# Quote-Generator-cpc-
+An application that generates quotes
