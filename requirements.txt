@@ -6,3 +6,5 @@ python-dotenv==1.1.0
 uvicorn==0.34.1
 fastapi==0.115.11
 openai==1.18.0
+python-multipart==0.0.9
+aiofiles==23.2.1
