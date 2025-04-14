@@ -5,3 +5,4 @@ MarkupSafe==3.0.2
 python-dotenv==1.1.0
 uvicorn==0.34.1
 fastapi==0.115.11
+openai==1.18.0
